@@ -1,0 +1,16 @@
+Text,Sentiment
+"I love this product, it's amazing!",Positive
+This is the worst experience ever.,Negative
+"It's okay, nothing special.",Neutral
+Absolutely fantastic! Highly recommend.,Positive
+I hate the quality of this item.,Negative
+"The service was average, not bad.",Neutral
+Super happy with my purchase.,Positive
+"Terrible support, very disappointed.",Negative
+"Not too bad, could be better.",Neutral
+"Excellent experience, I’ll buy again!",Positive
+I will never use this app again.,Negative
+"It works fine, but not great.",Neutral
+"Loved it, totally worth it!",Positive
+"Very poor design, waste of money.",Negative
+"Just okay, nothing to complain.",Neutral
